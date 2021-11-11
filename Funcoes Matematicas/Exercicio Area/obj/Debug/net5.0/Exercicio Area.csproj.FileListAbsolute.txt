@@ -1,0 +1,16 @@
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\bin\Debug\net5.0\Exercicio Area.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\bin\Debug\net5.0\Exercicio Area.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\bin\Debug\net5.0\Exercicio Area.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\bin\Debug\net5.0\Exercicio Area.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\bin\Debug\net5.0\Exercicio Area.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\bin\Debug\net5.0\ref\Exercicio Area.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\bin\Debug\net5.0\Exercicio Area.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\obj\Debug\net5.0\Exercicio Area.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\obj\Debug\net5.0\Exercicio Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\obj\Debug\net5.0\Exercicio Area.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\obj\Debug\net5.0\Exercicio Area.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\obj\Debug\net5.0\Exercicio Area.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\obj\Debug\net5.0\Exercicio Area.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\obj\Debug\net5.0\ref\Exercicio Area.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\obj\Debug\net5.0\Exercicio Area.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Exercicio Area\obj\Debug\net5.0\Exercicio Area.genruntimeconfig.cache

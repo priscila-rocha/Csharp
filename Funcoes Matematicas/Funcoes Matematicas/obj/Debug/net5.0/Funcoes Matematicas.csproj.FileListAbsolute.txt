@@ -1,0 +1,16 @@
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\bin\Debug\net5.0\Funcoes Matematicas.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\bin\Debug\net5.0\Funcoes Matematicas.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\bin\Debug\net5.0\Funcoes Matematicas.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\bin\Debug\net5.0\Funcoes Matematicas.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\bin\Debug\net5.0\Funcoes Matematicas.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\bin\Debug\net5.0\ref\Funcoes Matematicas.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\bin\Debug\net5.0\Funcoes Matematicas.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\obj\Debug\net5.0\Funcoes Matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\obj\Debug\net5.0\Funcoes Matematicas.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\obj\Debug\net5.0\Funcoes Matematicas.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\obj\Debug\net5.0\Funcoes Matematicas.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\obj\Debug\net5.0\Funcoes Matematicas.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\obj\Debug\net5.0\ref\Funcoes Matematicas.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\obj\Debug\net5.0\Funcoes Matematicas.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\obj\Debug\net5.0\Funcoes Matematicas.genruntimeconfig.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Funcoes Matematicas\Funcoes Matematicas\obj\Debug\net5.0\Funcoes Matematicas.csproj.AssemblyReference.cache
