@@ -1,0 +1,32 @@
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\bin\Debug\net5.0\Matriz_refatorando.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\bin\Debug\net5.0\Matriz_refatorando.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\bin\Debug\net5.0\Matriz_refatorando.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\bin\Debug\net5.0\Matriz_refatorando.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\bin\Debug\net5.0\Matriz_refatorando.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\bin\Debug\net5.0\ref\Matriz_refatorando.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\bin\Debug\net5.0\Matriz_refatorando.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\obj\Debug\net5.0\ref\Matriz_refatorando.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.genruntimeconfig.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\bin\Debug\net5.0\Matriz_refatorando.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\bin\Debug\net5.0\Matriz_refatorando.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\bin\Debug\net5.0\Matriz_refatorando.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\bin\Debug\net5.0\Matriz_refatorando.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\bin\Debug\net5.0\Matriz_refatorando.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\bin\Debug\net5.0\ref\Matriz_refatorando.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\bin\Debug\net5.0\Matriz_refatorando.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\obj\Debug\net5.0\ref\Matriz_refatorando.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz_refatorando\obj\Debug\net5.0\Matriz_refatorando.genruntimeconfig.cache
