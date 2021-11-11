@@ -1,0 +1,16 @@
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\bin\Debug\net5.0\Entrada de Dados - Parte 2.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\bin\Debug\net5.0\Entrada de Dados - Parte 2.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\bin\Debug\net5.0\Entrada de Dados - Parte 2.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\bin\Debug\net5.0\Entrada de Dados - Parte 2.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\bin\Debug\net5.0\Entrada de Dados - Parte 2.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\bin\Debug\net5.0\ref\Entrada de Dados - Parte 2.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\bin\Debug\net5.0\Entrada de Dados - Parte 2.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\obj\Debug\net5.0\Entrada de Dados - Parte 2.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\obj\Debug\net5.0\Entrada de Dados - Parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\obj\Debug\net5.0\Entrada de Dados - Parte 2.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\obj\Debug\net5.0\Entrada de Dados - Parte 2.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\obj\Debug\net5.0\Entrada de Dados - Parte 2.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\obj\Debug\net5.0\Entrada de Dados - Parte 2.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\obj\Debug\net5.0\ref\Entrada de Dados - Parte 2.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\obj\Debug\net5.0\Entrada de Dados - Parte 2.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Entrada de Dados\Entrada de Dados - Parte 2\obj\Debug\net5.0\Entrada de Dados - Parte 2.genruntimeconfig.cache
