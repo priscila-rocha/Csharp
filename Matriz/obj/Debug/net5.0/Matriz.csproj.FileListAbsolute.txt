@@ -1,0 +1,32 @@
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\bin\Debug\net5.0\Matriz.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\bin\Debug\net5.0\Matriz.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\bin\Debug\net5.0\Matriz.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\bin\Debug\net5.0\Matriz.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\bin\Debug\net5.0\Matriz.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\bin\Debug\net5.0\ref\Matriz.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\bin\Debug\net5.0\Matriz.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\obj\Debug\net5.0\Matriz.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\obj\Debug\net5.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\obj\Debug\net5.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\obj\Debug\net5.0\Matriz.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\obj\Debug\net5.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\obj\Debug\net5.0\Matriz.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\obj\Debug\net5.0\ref\Matriz.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\obj\Debug\net5.0\Matriz.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\C charp\Udemy\Matriz\obj\Debug\net5.0\Matriz.genruntimeconfig.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\bin\Debug\net5.0\Matriz.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\bin\Debug\net5.0\Matriz.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\bin\Debug\net5.0\Matriz.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\bin\Debug\net5.0\Matriz.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\bin\Debug\net5.0\Matriz.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\bin\Debug\net5.0\ref\Matriz.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\bin\Debug\net5.0\Matriz.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\obj\Debug\net5.0\Matriz.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\obj\Debug\net5.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\obj\Debug\net5.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\obj\Debug\net5.0\Matriz.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\obj\Debug\net5.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\obj\Debug\net5.0\Matriz.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\obj\Debug\net5.0\ref\Matriz.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\obj\Debug\net5.0\Matriz.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Matriz\obj\Debug\net5.0\Matriz.genruntimeconfig.cache
