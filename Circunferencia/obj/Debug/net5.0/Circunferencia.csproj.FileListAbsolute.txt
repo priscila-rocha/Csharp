@@ -1,0 +1,16 @@
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\bin\Debug\net5.0\Circunferencia.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\bin\Debug\net5.0\Circunferencia.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\bin\Debug\net5.0\Circunferencia.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\bin\Debug\net5.0\Circunferencia.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\bin\Debug\net5.0\Circunferencia.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\bin\Debug\net5.0\ref\Circunferencia.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\bin\Debug\net5.0\Circunferencia.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\obj\Debug\net5.0\Circunferencia.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\obj\Debug\net5.0\Circunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\obj\Debug\net5.0\Circunferencia.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\obj\Debug\net5.0\Circunferencia.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\obj\Debug\net5.0\Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\obj\Debug\net5.0\Circunferencia.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\obj\Debug\net5.0\ref\Circunferencia.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\obj\Debug\net5.0\Circunferencia.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Circunferencia\obj\Debug\net5.0\Circunferencia.genruntimeconfig.cache
