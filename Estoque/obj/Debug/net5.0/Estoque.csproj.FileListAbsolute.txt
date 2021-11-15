@@ -1,0 +1,16 @@
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\bin\Debug\net5.0\Estoque.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\bin\Debug\net5.0\Estoque.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\bin\Debug\net5.0\Estoque.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\bin\Debug\net5.0\Estoque.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\bin\Debug\net5.0\Estoque.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\bin\Debug\net5.0\ref\Estoque.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\bin\Debug\net5.0\Estoque.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\obj\Debug\net5.0\Estoque.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\obj\Debug\net5.0\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\obj\Debug\net5.0\Estoque.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\obj\Debug\net5.0\Estoque.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\obj\Debug\net5.0\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\obj\Debug\net5.0\Estoque.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\obj\Debug\net5.0\ref\Estoque.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\obj\Debug\net5.0\Estoque.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Estoque\obj\Debug\net5.0\Estoque.genruntimeconfig.cache
