@@ -1,0 +1,16 @@
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\bin\Debug\net5.0\Pessoa.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\bin\Debug\net5.0\Pessoa.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\bin\Debug\net5.0\Pessoa.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\bin\Debug\net5.0\Pessoa.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\bin\Debug\net5.0\Pessoa.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\bin\Debug\net5.0\ref\Pessoa.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\bin\Debug\net5.0\Pessoa.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\obj\Debug\net5.0\Pessoa.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\obj\Debug\net5.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\obj\Debug\net5.0\Pessoa.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\obj\Debug\net5.0\Pessoa.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\obj\Debug\net5.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\obj\Debug\net5.0\Pessoa.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\obj\Debug\net5.0\ref\Pessoa.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\obj\Debug\net5.0\Pessoa.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Pessoa\obj\Debug\net5.0\Pessoa.genruntimeconfig.cache
