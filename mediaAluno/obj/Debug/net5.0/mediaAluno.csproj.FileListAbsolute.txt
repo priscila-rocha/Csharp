@@ -1,0 +1,16 @@
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\bin\Debug\net5.0\mediaAluno.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\bin\Debug\net5.0\mediaAluno.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\bin\Debug\net5.0\mediaAluno.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\bin\Debug\net5.0\mediaAluno.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\bin\Debug\net5.0\mediaAluno.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\bin\Debug\net5.0\ref\mediaAluno.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\bin\Debug\net5.0\mediaAluno.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\obj\Debug\net5.0\mediaAluno.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\obj\Debug\net5.0\mediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\obj\Debug\net5.0\mediaAluno.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\obj\Debug\net5.0\mediaAluno.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\obj\Debug\net5.0\mediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\obj\Debug\net5.0\mediaAluno.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\obj\Debug\net5.0\ref\mediaAluno.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\obj\Debug\net5.0\mediaAluno.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\mediaAluno\obj\Debug\net5.0\mediaAluno.genruntimeconfig.cache
