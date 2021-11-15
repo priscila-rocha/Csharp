@@ -1,0 +1,16 @@
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\bin\Debug\net5.0\TrianguloRefatorado.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\bin\Debug\net5.0\TrianguloRefatorado.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\bin\Debug\net5.0\TrianguloRefatorado.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\bin\Debug\net5.0\TrianguloRefatorado.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\bin\Debug\net5.0\TrianguloRefatorado.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\bin\Debug\net5.0\ref\TrianguloRefatorado.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\bin\Debug\net5.0\TrianguloRefatorado.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\obj\Debug\net5.0\TrianguloRefatorado.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\obj\Debug\net5.0\TrianguloRefatorado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\obj\Debug\net5.0\TrianguloRefatorado.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\obj\Debug\net5.0\TrianguloRefatorado.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\obj\Debug\net5.0\TrianguloRefatorado.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\obj\Debug\net5.0\TrianguloRefatorado.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\obj\Debug\net5.0\ref\TrianguloRefatorado.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\obj\Debug\net5.0\TrianguloRefatorado.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\TrianguloRefatorado\obj\Debug\net5.0\TrianguloRefatorado.genruntimeconfig.cache
