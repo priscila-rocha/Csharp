@@ -1,0 +1,16 @@
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\obj\Debug\net5.0\Retangulo.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\obj\Debug\net5.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\obj\Debug\net5.0\Retangulo.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\obj\Debug\net5.0\Retangulo.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\obj\Debug\net5.0\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\bin\Debug\net5.0\Retangulo.exe
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\bin\Debug\net5.0\Retangulo.deps.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\bin\Debug\net5.0\Retangulo.runtimeconfig.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\bin\Debug\net5.0\Retangulo.runtimeconfig.dev.json
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\bin\Debug\net5.0\Retangulo.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\bin\Debug\net5.0\ref\Retangulo.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\bin\Debug\net5.0\Retangulo.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\obj\Debug\net5.0\Retangulo.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\obj\Debug\net5.0\ref\Retangulo.dll
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\obj\Debug\net5.0\Retangulo.pdb
+C:\Users\prisc\OneDrive\Área de Trabalho\Estudos\CSharp\Codigos\Retangulo\obj\Debug\net5.0\Retangulo.genruntimeconfig.cache
